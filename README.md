@@ -30,6 +30,7 @@ The dataset contains lithium-ion battery material descriptors and crystal system
 - 80:20 train-test split
 - Random seed = 42
 - SMOTE for imbalance handling
+- RandomizedSearchCV with 5-Fold cross-validation
 
 ## Evaluation Metrics
 - Accuracy
